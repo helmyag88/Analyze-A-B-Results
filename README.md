@@ -12,3 +12,10 @@ Docstrings, comments, and variable names enable readability of the code.
 All results from different analyses are correctly interpreted.
 For all numeric values, you should provide the correct results of the analysis.
 Conclusions should include not only statistical reasoning, but also practical reasoning for the situation.
+
+# Table of Contents
+
+  Introduction
+  Part I - Probability
+  Part II - A/B Test
+  Part III - Regression
